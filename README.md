@@ -23,7 +23,6 @@
 <a href="https://github.com/Asford987/Solus">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Asford987&repo=Solus&theme=react" />
 </a>
-
-<a href="https://github.com/F-R-I-D-A-Y-Project/F.R.I.D.A.Y-Python">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=F-R-I-D-A-Y-Project&repo=F.R.I.D.A.Y-Python&theme=react" />
+<a href="https://github.com/Asford987/F.R.I.D.A.Y-v1">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Asford987&repo=F.R.I.D.A.Y-v1&theme=react" />
 </a>
