@@ -9,7 +9,7 @@
 
 
 # 📊 Stats
-![](https://github-readme-stats.vercel.app/api?username=Asford987&theme=react&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=20&card_width=288px\&rank_icon=percentile&line_height=31&card_width=296px)
+![](https://github-readme-stats.vercel.app/api?username=Asford987&theme=react&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=20&card_width=288px\&line_height=31&card_width=296px)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asford987&langs_count=6&theme=react&hide_border=false&include_all_commits=true&count_private=true&hide=jupyter%20notebook,HTML,CSS,CMake&layout=compact&line_height=31&card_width=296px)
 # 🌐 Socials
 
