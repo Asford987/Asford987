@@ -20,9 +20,9 @@
 # Top Repositories
 
 
-<a href="https://github.com/Asford987/Solus">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Asford987&repo=Solus&theme=react" />
+<a href="https://github.com/Asford987/IDS">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Asford987&repo=IDS&theme=react" />
 </a>
-<a href="https://github.com/Asford987/F.R.I.D.A.Y-v1">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Asford987&repo=F.R.I.D.A.Y-v1&theme=react" />
+<a href="https://github.com/Asford987/OliveDB">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Asford987&repo=OliveDB&theme=react" />
 </a>
