@@ -1,9 +1,9 @@
 # 💻 About Me
 👨🏻‍💻 I'm a computer engineering student at Instituto Militar de Engenharia.
 
-💼 Currently I'm developing [F.R.I.D.A.Y.](https://github.com/F-R-I-D-A-Y-Project/F.R.I.D.A.Y-Python) and studying RAG and Data Engineering.
+💼 Currently I'm developing an [Intrusion Detection System with Mixture of Experts](https://github.com/Asford987/IDS) and studying Neural Rendering and Data Engineering.
 
-📚 My areas of interest are Machine Learning, Robotics, IoT and Cybersecurity
+📚 My areas of interest are Machine Learning, Robotics, Computer Graphics and Cybersecurity
 
 <!-- 📓  You can see my portfolio [here](https://varad-comrad.github.io) -->
 
