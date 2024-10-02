@@ -9,8 +9,12 @@
 
 
 # 📊 Stats
-![](https://github-readme-stats.vercel.app/api?username=Asford987&theme=react&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=20&card_width=288px\&line_height=31&card_width=296px)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asford987&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asford987&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asford987&theme=dracula)
+<!--![](https://github-readme-stats.vercel.app/api?username=Asford987&theme=react&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=20&card_width=288px\&line_height=31&card_width=296px)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asford987&langs_count=6&theme=react&hide_border=false&include_all_commits=true&count_private=true&hide=jupyter%20notebook,HTML,CSS,CMake&layout=compact&line_height=31&card_width=296px)
+-->
 # 🌐 Socials
 
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-asfora-74794a248) 
@@ -72,7 +76,4 @@
 <summary>📈 Stats</summary>
 <br>
 My Github Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drkostas&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drkostas&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drkostas&theme=dracula)
 -->
